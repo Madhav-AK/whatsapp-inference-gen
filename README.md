@@ -11,3 +11,8 @@ Install all the packages mentioned in requirements.txt
 Open the .ipynb and look at the first cell  
 Change all the values in the first cell as per your requirement  
 Run all cells in the .ipynb file  
+
+## Side notes
+
+Whatsapp changes export formats randomly.  
+This code works for exports made on 13th July 2025, but I cannot guarantee its functioning in the future  
