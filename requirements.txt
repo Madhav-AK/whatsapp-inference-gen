@@ -1,0 +1,7 @@
+matplotlib
+pandas
+pillow
+pilmoji
+emoji<2.12
+markdown-pdf
+google-genai
