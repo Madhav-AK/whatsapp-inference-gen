@@ -1,4 +1,4 @@
-# whatsapp-inference-gen
+# Whatsapp Group Chat Inference Generator
 
 Running this code will generate 2 pdfs, one general statistical analysis, and one individual personality analysis.  
 Note that generatingt he second pdf is optional.  
