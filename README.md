@@ -6,7 +6,7 @@ Note that generating the second pdf is optional.
 ## Instructions to run
 
 Create a WhatsApp chat export and save it to a .txt file on your pc  
-Save everyone's numbers, and ensure there are no duplicate first names.  The code truncates names to use the first name.  
+Save everyone's numbers before exporting, and ensure there are no duplicate first names.  The code truncates names to use the first name.  
 Install all the packages mentioned in requirements.txt  
 Open the .ipynb and look at the first cell  
 Change all the values in the first cell as per your requirement  
